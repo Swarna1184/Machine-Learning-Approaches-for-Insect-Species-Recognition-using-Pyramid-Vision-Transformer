@@ -1,0 +1,21 @@
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.pt
+*.pth
+*.log
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env/
+.venv/
+env/
+
+# OS specific
+.DS_Store
+
+# Data / large files
+dataset/
