@@ -1,0 +1,11 @@
+torch>=1.12
+torchvision>=0.13
+timm==0.6.13
+numpy>=1.21
+matplotlib>=3.5
+scikit-learn>=1.0
+tqdm>=4.64
+seaborn>=0.12
+Pillow>=9.1
+opencv-python>=4.6   
+jupyterlab>=3.4     
